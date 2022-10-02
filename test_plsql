@@ -1,0 +1,7 @@
+declare
+a number := 5;
+b number := 6;
+c number := 0;
+begin
+c:= a+b;
+end;
