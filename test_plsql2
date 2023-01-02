@@ -1,0 +1,7 @@
+declare
+v_num number;
+v_char varchar2(20);
+begin
+v_num := 10;
+v_char := 'Testing the PLSQL';
+end;
